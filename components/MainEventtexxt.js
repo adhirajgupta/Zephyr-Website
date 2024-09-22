@@ -102,7 +102,7 @@ export const guestSpeaker1 = {
 
 
 export const guestSpeaker2 = {
-    title: "Ahana Ahuja",
+    title: "Aarti Ahuja",
     description: `Founder and CEO @Amplify with Aarti
 Leadership Cultivator
 Corporate and Soft Skills Trainer
